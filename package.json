@@ -2,7 +2,7 @@
   "name": "package.json",
   "private": true,
   "version": "0.0.0",
-  "homepage": "illustudio.github.io/",
+  "homepage": "illustudio.github.io/text-reveal-animation",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
