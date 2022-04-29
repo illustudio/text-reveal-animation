@@ -2,6 +2,8 @@
 - vite
 - vanilla JS
 - CSS animation
+
+#### link
 https://illustudio.github.io/text-reveal-animation
 ---
 2022.4.29

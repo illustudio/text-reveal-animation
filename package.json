@@ -2,12 +2,12 @@
   "name": "package.json",
   "private": true,
   "version": "0.0.0",
-  "homepage": "illustudio.github.io/text-reveal-animation",
+  "homepage": "https://illustudio.github.io/text-reveal-animation",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=https://illustudio.github.io/text-reveal-animation/",
     "preview": "vite preview",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
